@@ -20,7 +20,9 @@ jobs:
 
                 - name: 📦 Fix expo
                   run: npx expo install --fix
+                  
+                - name: 🚀 prebuild
+                  run: npx expo prebuild --platform android
 
-          
                 - name: 🚀 Build app
-                  run: npx expo start
+                  run: cd android && ./gradlew assembleRelease
