@@ -18,5 +18,9 @@ jobs:
                 - name: 📦 Install dependencies
                   run: yarn install
 
+                - name: 📦 Fix expo
+                  run: npx expo install --fix
+
+          
                 - name: 🚀 Build app
                   run: npx expo start
