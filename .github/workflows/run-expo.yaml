@@ -6,15 +6,11 @@ jobs:
     install-dependencies:
             runs-on: ubuntu-latest
             steps:
-           - uses: actions/setup-node@v3
+                - uses: actions/checkout@v3
+                - uses: actions/setup-node@v3
                   with:
-                    node-version: 18
+                    node-version: 16
                     cache: 'npm'
                     cache-dependency-path: subdir/package-lock.json
                 - run: npm ci
                 - run: npm test
-
-                - name: 📦 Install dependencies
-                  run: npm install
-                - name: 📦 Run app
-                  run: npx expo start
