@@ -8,11 +8,15 @@ jobs:
             steps:
                 - name: 🏗 Setup Node
                   uses: actions/setup-node@v3
+           - uses: actions/setup-node@v3
                   with:
-                    node-version: 18.x
-                    cache: yarn
+                    node-version: 18
+                    cache: 'npm'
+                    cache-dependency-path: subdir/package-lock.json
+                - run: npm ci
+                - run: npm test
 
                 - name: 📦 Install dependencies
-                  run: yarn install
+                  run: npm install
                 - name: 📦 Run app
                   run: npx expo start
