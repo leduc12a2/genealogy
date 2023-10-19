@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "86348170761",
+    "project_id": "callvideo-daa5d",
+    "storage_bucket": "callvideo-daa5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86348170761:android:41ac0ce586e0c4131d5ad8",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86348170761-17cf62ppa3gai4or4ao1336dt0tgekid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvfqxmcNi8u0x_obg5VMZy0-wF2EehAYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86348170761-17cf62ppa3gai4or4ao1336dt0tgekid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86348170761-7bata9j8m6gj262vl30e8ulrvui54evt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.awesomeproject.product"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86348170761:android:689dfac5ec867b061d5ad8",
+        "android_client_info": {
+          "package_name": "com.awesomeproject.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86348170761-17cf62ppa3gai4or4ao1336dt0tgekid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvfqxmcNi8u0x_obg5VMZy0-wF2EehAYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86348170761-17cf62ppa3gai4or4ao1336dt0tgekid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86348170761-7bata9j8m6gj262vl30e8ulrvui54evt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.awesomeproject.product"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86348170761:android:516c0442ef80457f1d5ad8",
+        "android_client_info": {
+          "package_name": "com.awesomeproject.product"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86348170761-17cf62ppa3gai4or4ao1336dt0tgekid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvfqxmcNi8u0x_obg5VMZy0-wF2EehAYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86348170761-17cf62ppa3gai4or4ao1336dt0tgekid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86348170761-7bata9j8m6gj262vl30e8ulrvui54evt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.awesomeproject.product"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86348170761:android:39507a5ada8df4571d5ad8",
+        "android_client_info": {
+          "package_name": "com.awesomeproject.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86348170761-17cf62ppa3gai4or4ao1336dt0tgekid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvfqxmcNi8u0x_obg5VMZy0-wF2EehAYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86348170761-17cf62ppa3gai4or4ao1336dt0tgekid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86348170761-7bata9j8m6gj262vl30e8ulrvui54evt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.awesomeproject.product"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86348170761:android:2648794c30ad2a511d5ad8",
+        "android_client_info": {
+          "package_name": "com.genealogy.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86348170761-17cf62ppa3gai4or4ao1336dt0tgekid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvfqxmcNi8u0x_obg5VMZy0-wF2EehAYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86348170761-17cf62ppa3gai4or4ao1336dt0tgekid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86348170761-7bata9j8m6gj262vl30e8ulrvui54evt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.awesomeproject.product"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
