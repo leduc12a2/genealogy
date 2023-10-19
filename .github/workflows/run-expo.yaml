@@ -1,0 +1,10 @@
+name: run-app-expo
+on:
+  push:
+     branches: [main]
+jobs:
+    install-dependencies:
+            runs-on: ubuntu-latest
+            steps:
+              run: yarn
+              run: npx expo start
