@@ -27,10 +27,10 @@ jobs:
                 - name: 🚀 Build app
                   run: cd android && ./gradlew assembleRelease
 
-                - name: 🚀 Public File Apk
-                  uses: actions/upload-artifact@v3
-                  with:
-                    node-version: release-apk
-                    path: app/build/outputs/apk/release/
+             - name: Upload APK
+                    uses: actions/upload-artifact@v2
+                    with:
+                      name: app-release
+                      path: app/build/outputs/apk/release/app-release.apk
 
 
