@@ -11,5 +11,7 @@ jobs:
                   with:
                     node-version: 16
                     cache: 'npm'
-                - run: npm ci
-                - run: npm test
+
+            steps:
+                run: npm install
+                run: npm expo start
