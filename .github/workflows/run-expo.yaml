@@ -6,8 +6,6 @@ jobs:
     install-dependencies:
             runs-on: ubuntu-latest
             steps:
-                - name: 🏗 Setup Node
-                  uses: actions/setup-node@v3
            - uses: actions/setup-node@v3
                   with:
                     node-version: 18
