@@ -6,5 +6,5 @@ jobs:
     install-dependencies:
             runs-on: ubuntu-latest
             steps:
-              run: yarn
-              run: npx expo start
+            - run: yarn
+            - run: npx expo start
