@@ -1,4 +1,4 @@
-name: run-app-expo
+name: run-app-expo-buid
 on:
   push:
      branches: [main]
